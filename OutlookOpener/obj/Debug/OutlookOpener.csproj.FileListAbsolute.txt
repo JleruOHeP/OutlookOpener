@@ -1,0 +1,8 @@
+C:\TestProjects\OutlookOpener\OutlookOpener\bin\Debug\OutlookOpener.exe.config
+C:\TestProjects\OutlookOpener\OutlookOpener\bin\Debug\OutlookOpener.exe
+C:\TestProjects\OutlookOpener\OutlookOpener\bin\Debug\OutlookOpener.pdb
+C:\TestProjects\OutlookOpener\OutlookOpener\obj\Debug\OutlookOpener.csprojResolveAssemblyReference.cache
+C:\TestProjects\OutlookOpener\OutlookOpener\obj\Debug\OutlookOpener.csproj.ResolveComReference.cache
+C:\TestProjects\OutlookOpener\OutlookOpener\obj\Debug\OutlookOpener.exe
+C:\TestProjects\OutlookOpener\OutlookOpener\obj\Debug\OutlookOpener.pdb
+C:\TestProjects\OutlookOpener\OutlookOpener\bin\Debug\template.oft
